@@ -56,7 +56,7 @@ A aplicação oferece as seguintes funcionalidades:
 
 ## Como Usar
 
-Acesse a aplicação diretamente no seguinte link: [Deploy da Aplicação](<LINK_DO_DEPLOY>).
+Acesse a aplicação diretamente no seguinte link: [Deploy da Aplicação](<https://fraudefinanceira.streamlit.app>).
 
 ## Estrutura do Código
 
